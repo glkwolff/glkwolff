@@ -41,10 +41,14 @@
 <br>
 <br>
 
-### 📊 GitHub Stats
+### 📊 Atividade no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glkwolff&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glkwolff&theme=dracula&date_format=d%2Fm%2FY" alt="GitHub Streak" />
+  </a>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glkwolff&layout=compact&theme=dracula"/>
+  <br><br>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glkwolff&theme=dracula&layout=compact&hide_border=true"/>
 </div>
