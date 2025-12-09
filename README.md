@@ -41,14 +41,8 @@
 <br>
 <br>
 
-### 📊 Atividade no GitHub
+### 📊 Teste de Estatísticas
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=glkwolff&theme=dracula&date_format=d%2Fm%2FY&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
-  <br><br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=glkwolff&theme=dracula&hide_border=true)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glkwolff&theme=dracula&layout=compact&hide_border=true"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glkwolff&theme=dracula&layout=compact&hide_border=true)
