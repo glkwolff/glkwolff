@@ -41,5 +41,4 @@
 <br>
 <br>
 
-### Teste de Conexão
-![Teste Denver](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula)
+
