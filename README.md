@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glkwolff&theme=dracula&date_format=d%2Fm%2FY" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=glkwolff&theme=dracula&date_format=d%2Fm%2FY&hide_border=true" alt="GitHub Streak" />
   </a>
   
   <br><br>
