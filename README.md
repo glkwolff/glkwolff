@@ -41,8 +41,5 @@
 <br>
 <br>
 
-### 📊 Teste de Estatísticas
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=glkwolff&theme=dracula&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glkwolff&theme=dracula&layout=compact&hide_border=true)
+### Teste de Conexão
+![Teste Denver](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dracula)
